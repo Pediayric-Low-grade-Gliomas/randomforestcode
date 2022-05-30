@@ -1,0 +1,21 @@
+,Gender,Age (time of diagnosis),BRAF fusion,Groups
+23,F,14,negative,1
+35,F,1,negative,2
+36,F,15,negative,3
+41,F,18,positive,3
+59,F,4,positive,3
+60,F,3,negative,1
+76,F,6,positive,3
+94,F,6,negative,3
+9,M,5,negative,3
+13,M,6,negative,1
+14,M,11,negative,1
+28,M,6,positive,3
+34,M,18,negative,2
+40,M,10,negative,3
+61,M,7,positive,3
+69,M,12,negative,1
+75,M,9,negative,3
+89,M,4,positive,3
+93,M,14,positive,3
+98,M,12,negative,3
